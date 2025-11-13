@@ -9,7 +9,7 @@ The project consists of **two main dashboards (S1 & S2)**, each focusing on diff
 ---
 
 ## 🔹 Dashboard 1 – Sales Overview
-![Sales Dashboard 1](dashboard+ss/screenshots/s1)
+![Sales Dashboard 1](dashboard+ss/screenshots/s1.jpg)
 
 ### ✨ Key Highlights
 - **Category-wise Sales Analysis** – Compare sales performance across product categories.  
@@ -27,7 +27,7 @@ The project consists of **two main dashboards (S1 & S2)**, each focusing on diff
 ---
 
 ## 🔹 Dashboard 2 – KPI & Trend Analysis
-![Sales Dashboard 2](dashboard+ss/screenshots/s2)
+![Sales Dashboard 2](dashboard+ss/screenshots/s2.jpg)
 
 ### ✨ Key Highlights
 - **KPI Cards** showing:
@@ -60,4 +60,4 @@ The project consists of **two main dashboards (S1 & S2)**, each focusing on diff
 
 ---
 
-
+## 📂 File Structure
